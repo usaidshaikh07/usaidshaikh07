@@ -42,15 +42,15 @@ Here are some of my highlighted works:
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=usaidshaikh07&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaidshaikh07&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
 ### 🤝 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/usaidshaikh07/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:usaidshaikh201@gmail.com">
@@ -63,4 +63,4 @@ Here are some of my highlighted works:
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a></p>
+<p align="center">⭐️ From <a href="https://github.com/usaidshaikh07">Usaid Shaikh</a></p>
