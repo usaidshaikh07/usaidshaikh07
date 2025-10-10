@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Usaid Shaikh</h1>
 <h3 align="center">B.Tech CSE Student | Aspiring Cybersecurity & IT Professional | Tech Enthusiast</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding gif"/>
-</p>
 
 ---
 
