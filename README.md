@@ -35,14 +35,6 @@ Here are some of my highlighted works:
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usaidshaikh07&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaidshaikh07&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ### 🤝 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/usaidshaikh07/" target="_blank">
